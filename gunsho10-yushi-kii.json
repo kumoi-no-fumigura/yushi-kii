@@ -1,10 +1,15 @@
 {
- "work": "祐子内親王家紀伊集",
+ "work": "祐子内親王家紀伊集（群書類従本）",
  "work_id": "gunsho10-yushi-kii",
  "repo": "kumoi-no-fumigura/yushi-kii",
  "yomi": "ゆうしないしんのうけのきいしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安後期",
+  "author": "祐子内親王家紀伊",
+  "desc": "後朱雀天皇の皇女祐子内親王に仕えた紀伊の家集。高陽院七番歌合や一宮の歌合の歌などを収める。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -918,6 +923,6 @@
   "poems": 78,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
